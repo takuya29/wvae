@@ -16,3 +16,5 @@ My goal is to obtain latent variable from hand-written digit datasets(EMNIST).
 Usinig digit labels, decompose latent variable to following two parts.
 1. Latent Variable which contribute to classify digit labels.
 2. Latent Variable which is irrelevant to classify digit labels. 
+
+![Latent Space](img/latent_space.png)
