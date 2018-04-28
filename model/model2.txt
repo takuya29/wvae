@@ -1,0 +1,1 @@
+{"Description": "Double Latent Variational AutoEncoder + Classification(softmax) + Covariance Loss", "input": "image (28*28 dim)", "output": "reconstructed image (28*28 dim)", "date": "<built-in method now of type object at 0x000000006F142D90>"}
